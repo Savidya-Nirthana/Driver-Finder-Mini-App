@@ -46,5 +46,3 @@ Use the **Expo Go** mobile application to scan the QR code and run the app on yo
 - **Firebase Connectivity Issues** – Faced challenges connecting the app to Firebase services.
 
 ---
-
-If you would like to add screenshots, features, or installation notes, feel free to ask!
